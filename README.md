@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KomalSrivastava
 - 👀 I’m interested in WEB DEVELOPMENT AND GRAPHIC DESIGNING....
-- 🌱 I’m currently learning C++, HTML and CSS
+- 🌱 I’m currently learning C++, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...->
 - -You can reach me through komalkashyap2107@gmail.com
