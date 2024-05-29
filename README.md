@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Great to meet you!!👋 I'm Komal</h1>
+<h1 align="center"> I'm Komal!! Nice to meet you👋</h1>
 <h3 align="center">A Full-stack Developer... currently pursuing BTech in CSE</h3>
 <img align="right" alt="Coding" width="435" height="245" src="https://camo.githubusercontent.com/f2799009798404f46d3329867a8b18a68036a2e94aa37a597571f719e3a1b494/68747470733a2f2f76696468692d6d6f64792e6769746875622e696f2f696d672f636f6e747269627574652e676966">
 
