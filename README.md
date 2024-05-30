@@ -1,13 +1,23 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">  Nice to meet you👋 I'm Komal!!</h1>
-<h3 align="center">A Full-stack Developer... currently pursuing BTech in CSE</h3>
+<h1 align="center"> Hey <𝚌𝚘𝚍𝚎𝚛𝚜/><br>   Nice to meet you👋 I'm Komal!!</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;UI/UX+ENTHUSIAST)](https://git.io/typing-svg)
+
+
 <img align="right" alt="Coding" width="435" height="245" src="https://camo.githubusercontent.com/f2799009798404f46d3329867a8b18a68036a2e94aa37a597571f719e3a1b494/68747470733a2f2f76696468692d6d6f64792e6769746875622e696f2f696d672f636f6e747269627574652e676966">
 
+
+
+ <h3 align="left">About Me 👦</h3>
+ 
+- 👋 Hi, I'm a B.Tech Student of **Jaypee University Of Engineering And Technology , Guna Madhya Pradesh** 🧑‍💻🎉
+- 🎊 I have a keen interest in **Full Stack Development**  and I love developing  websites, and web apps 🏈🎯
 - 🌱 I’m currently learning **Next.js**
+- 🎭 I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on **GitHub** and collaborate with others in the open source community 🎰♠️
+- 📫 Wanna interested in discussing potential collaborations, tech insights, or just want to say hi, contact me at **komalkashyap2107@gmail.com**
 
-- 📫 You can find me on **komalkashyap2107@gmail.com**
-
-<h3 align="left"> Connect with me: <img  alt="connect " width="70"  src="https://www.abentras.com/images/handshake.gif"> </h3>
+<h3 align="left"> Connect with me on my 💌 Social Handles <img  alt="connect " width="70"  src="https://www.abentras.com/images/handshake.gif"> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/komal-a2392624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/komal-a2392624a/" height="30" width="40" /></a>
 <a href="https://instagram.com/@komal_srivastavaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@komal_srivastavaa_" height="30" width="40" /></a>
@@ -21,7 +31,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsrivastava&" alt="komalsrivastava" /></p>
 <div align="center">
 <a href="https://github.com/KomalSrivastava">
-
+<div align="center">
+  <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div><br />
 
 
 
