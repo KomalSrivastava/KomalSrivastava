@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 You can connect me on **komalkashyap2107@gmail.com**
+- 📫 You can find me on **komalkashyap2107@gmail.com**
 
 <h3 align="left"> Connect with me: <img  alt="connect " width="70"  src="https://www.abentras.com/images/handshake.gif"> </h3>
 <p align="left">
