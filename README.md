@@ -23,7 +23,6 @@
 <a href="https://github.com/KomalSrivastava">
 
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KomalSrivastava&theme=2077" height="180em" />
 
 
 </div>
