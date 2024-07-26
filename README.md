@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsrivastava&show_icons=true&locale=en&layout=compact" alt="komalsrivastava" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsrivastava&" alt="komalsrivastava" /></p>
+
 <div align="center">
 <a href="https://github.com/KomalSrivastava">
 <div align="center">
