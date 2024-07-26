@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;UI/UX+ENTHUSIAST)](https://git.io/typing-svg)
 
 
-<img align="right" alt="Coding" width="435" height="245" src="https://camo.githubusercontent.com/f2799009798404f46d3329867a8b18a68036a2e94aa37a597571f719e3a1b494/68747470733a2f2f76696468692d6d6f64792e6769746875622e696f2f696d672f636f6e747269627574652e676966">
+
 
 
 
